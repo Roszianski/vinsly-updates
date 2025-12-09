@@ -1,19 +1,23 @@
 {
-  "version": "0.1.8",
-  "notes": "Release v0.1.8 - See GitHub release for details",
-  "pub_date": "2025-12-05T20:37:14Z",
+  "version": "0.1.9",
+  "notes": "Release v0.1.9 - See GitHub release for details",
+  "pub_date": "2025-12-09T15:04:20Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.8/*_aarch64.app.tar.gz"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.9/*_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.8/*_x64.app.tar.gz"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.9/*_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlg1b21KM2NkRmIyUG04VFppczNhejRWd0dDb0pUdVVzeVRwRFB4cHd0S1lkcDFZaUlheGRZMUM0d05JVUJtbkhWQ29PY3RETCtCVG4ra3RnR0c0UkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0OTUxNDQzCWZpbGU6Vmluc2x5XzAuMS44X3g2NC1zZXR1cC5leGUKT0sycmNqZk5ud2pQVHd5R2dKbVhvdjhNT3hpcHQwRytUVTFmWGk0Sm4wVEN5cG1FZjBvWEFRUHNCL005U0xaYkVPLzJqOFU2RnRhdGVkdDltc3UzQ0E9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.8/Vinsly_0.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlM5WTZWUjRiQlBwWVh0cXZ0SnlkcDRzS3I5NDN0WktiWCtoUkd2cXJvSXh1UnlFcFpNc0NEUGFLbk1xMDQ1dHNRc09wbXkwUEVvQk5qVEYwSWo0Ymc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1MjkyNTE3CWZpbGU6Vmluc2x5XzAuMS45X3g2NC1zZXR1cC5leGUKNWwzS3BUQVZoNmU2cXFocFZLQVNNbHJkeTg3Z3dUd0ZNME1nbnBRWFhOVkRQcURLbVg1ZHA2amVYSHdKWWJWV2dqc2pJU3dKdmp0VmY2RE9NQnd4RHc9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.9/Vinsly_0.1.9_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.9/*.AppImage.tar.gz"
     }
   }
 }
