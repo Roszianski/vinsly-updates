@@ -1,23 +1,23 @@
 {
-  "version": "0.9.2",
-  "notes": "Release v0.9.2 - See GitHub release for details",
-  "pub_date": "2025-12-13T20:50:07Z",
+  "version": "0.9.3",
+  "notes": "Release v0.9.3 - See GitHub release for details",
+  "pub_date": "2025-12-14T18:08:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlNzQWtuQnM1SzNKTTF0NXlPQ1FTRGppQ2h6d2NObE9SR1BGTzFLeTI4Nm16dUdtNEFSUFgwalBLSENIVVhCZUt0V1JmcGxRUFU1WTAxMWdubUc3RHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjU4NjY0CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKSEx2UmtkYXd2RXNwZkw4OEhYemhnRWhaZDdkVG1IdTNFR1Nhb0NBM1FkUlNvUmJneEkxNEhVaXJkWnRHQlVXdnBzZVdpZ2kyeFJqMnJRVC85Uk1XQVE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.2/Vinsly_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlpHdUhEQzk5UG5PcFRsRkNGOExIYkFHRGdScnRIQUpUei9CTTVGdHgxY29hR1Biall4eGNQYTRTQUhtOEFLV1h6dEEyb09GRW51amtMSHJ4Vk9XM1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzM1MzU1CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKYzNObHkvYTBKa29PcHZONU9peUhjMjhhMTlHdHpROEJjWUxFYk5Nek1WVGdOMWwwaXRLRElsNTE1bGd2RlA1Q0FXU3NYa2tOR25OaHBZSHlXNXNiQUE9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.3/Vinsly_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmNoTldYaUlqd3cvYzNSU21rSS9GUy9ObXhBN1M3Nzc0ZERlRks3SXgxRzdKRmJQUGR1TFdDaFdzVElNUzBFWDF1N0VEMllZcEpJOFBaRDFDQk91bFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjU4Njg4CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKbXBiWDY3cmZlTEtPYk1uN2U2UnQxZWlrMEJIeG1zV2hoVHNqUVRqTE5Ga3F0NEFSL2c2NlZnek56RWt0Yy9SZFZIeW9JVStOY2owSktJZXB2Yzh4QkE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.2/Vinsly_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlQ4Qy9mMGR6b1Izak1aRkR4OUdvMWVraE1rTTIwQ1RjUkNZSXYvVEVRQUc5R2tCVExKaGUzck9oVndXQW96eGo1c2dMcEFEKy80UWxyazg5WVExdlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzM1Mzk2CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKSDRLVHVXQ3NLclpFb2hhY3FVQmJFbktNVVJub0ZkWW1wMEJFQVNyQ3FvRWhBMm5SamNETkV6WDkrZHZrak9mN3IvUlZJOUdZUW9UMUlXOXoyamFwRGc9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.3/Vinsly_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlVIcUZ2MTNlampCYlMralpXUnlPM3YrZTdPb3pGcmVoS2c0ZExsakIvRENJRjV0S0ExTjZDK2R0NVZXWWJQVVJpY1o1OXpNZlYwaWlmQTcxR1RxK3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NjU4OTQ0CWZpbGU6Vmluc2x5XzAuOS4yX3g2NC1zZXR1cC5leGUKREtWeThDTmNlV2ZGL2JqZnZxWFdrV1JkSW4rKzMwdjJXd2xSWWl4TndienphQyswRll6cG5DVWpHQjliYzlFSzZkOVF6V25HQnpNOTA3VkliM1AwQ2c9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.2/Vinsly_0.9.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlZlNW55cXg2QXlUNXZSWWhGWmVZdittSmRmdTZTTzNkWFhIdEZ6d3RjY0lWMzJvRlEyakMzQU5tSlBsM3JFWXc1c2syV3NsV1pCYkZ4VlhnbVhvd2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY1NzM1NjQ2CWZpbGU6Vmluc2x5XzAuOS4zX3g2NC1zZXR1cC5leGUKN296MWVPVGxlVlM0UW9mTHZyS2NCdFhScE9oT2lXU0lmUWhOY1JrL3p5Q2ZobVBHTkpPTGNhS0xpclJvelVpUjFWclp6cWNBd1NPeHNUbllscEZJQkE9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.3/Vinsly_0.9.3_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.2/"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.9.3/"
     }
   }
 }
