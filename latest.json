@@ -1,23 +1,23 @@
 {
-  "version": "0.11.0",
-  "notes": "- MCP server health monitoring\n- OAuth support for MCP servers\n- Environment variable preview",
-  "pub_date": "2025-12-25T22:42:04Z",
+  "version": "0.11.1",
+  "notes": "- Fix Claude CLI detection on Windows by adding Windows-specific search paths\- Fix duplicate skills/agents on Windows by normalizing path separators\- Add session token usage tracking\",
+  "pub_date": "2025-12-27T19:32:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlRlblB5SGU2YmQ4cXVFY0pxOHBBWENlTE9KaDFjc1pnemhQSTRkYXk4VC9SaHNLQS9ocWR0WUdSYThXSUk0ek5aVkhQZWpaZU5hS2FsenNSeWxNcndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NzAyMTU5CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKV09NVzBVOWZqLzR3QkhHSXB0SDVhZUlzT21lVS9PaUFwUW5keVJhNHB6alNYWlF6UzZQSmx4YTlNNkVrck5uY1d0VWhPT0xEc1FIczgzZzF2NExNQ2c9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.0/Vinsly_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlZWVUhpUWFWK2JvblBxeDBYWlNsNkRSWFNBZW9QVXYzVXhNd3lYTGdEVk14VXZRMFA5ckZXTEdSVFFqR1ZPZXptbVBORm5sckN1TEFqSGdLa3BueUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODYzNjg2CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKRllDRithaEZFa2VDZ2d2WFFWMnJVMkxUL1kzcTlYOVNIak9QdDdXenZWWXJ4MGJ1TE5IUjRvSjl3ZEFuQ2xob0pkemhOU1I2MWJMcXQ5emJ5WUNTQ0E9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.1/Vinsly_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlhlVDJZeDRiOHlLaXNtcENnWExHaWFtYlNXVElCSjBVVGp2V1BxcnhlQ25RSGd4Myt6WkhCSGp6ZHFycEY3SEVTSVpZek1vamx5NUlQa29JUVYwclFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NzAyMTg1CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKVlFvQmdSVkNqRndBeUwzQ3F4KzBtcmpteTBxdWhYZTVwT1hRTmRpaE5tL01iQnpuVkZ3QlNqWkdjd0h6djZjbTZ2ajVWMjJqVWpTbFk1Y2U5QzFjQVE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.0/Vinsly_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMldlaVI1bHZjTWlBb3M3U0paTm4wUkZTd3h6OUx1ZjJsc2FVSEcrY3lOdzZCbTBnalV3Yk5KcmxMVEN3WGhVdWU4Z3JVR1hyVEpJTElPcGg4V3lHMHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODYzNjE1CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKeWJqMVlodGdjZTJ1UjYrQzhmN2U5eGtOTHZoa2czU2NsTGdLY0piUDBTZFV5MytrS2VMdzdXSngrYm5FQ1VHS3ZSekVSb0cyNlhpTThNM1hwR1pkQ1E9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.1/Vinsly_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlRzeWNFZTJGZG85cnEvQTNyVFVXQzRpbEFhTTJNQ1ppeDhjWnFXaEZoN3Q2eGlvSlpUMGowUUNyM3FqYVN2WjJMS1Q5ekNxS3pXS3RaOGgyMTVhMEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2NzAyNDU1CWZpbGU6Vmluc2x5XzAuMTEuMF94NjQtc2V0dXAuZXhlCktocVN2Z0NEcXUvcmJSazA3WUloQi9yUU9nbmdmcDJLZVdlNlhETmduOXdiM2I2V1N4NEhQZkY3SlQ0aERTbjR6MWoydXpsRTA0d3hBaFBMSUU0YkR3PT0K",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.0/Vinsly_0.11.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMldlbTNXQnY0WUs4ektSYTZqNnJSL3RqMXE3WFQzZmY2WDJMbVhRVFpkVzRtWEcyWStWWXk3UzdGSklTWlJ0WlhUOHlQOVA2U1VpQmQva0lld3dqTUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2ODYzODgxCWZpbGU6Vmluc2x5XzAuMTEuMV94NjQtc2V0dXAuZXhlCnJDbnM1ajVlQ3gyNW5SVE9qbCt0YnRITHNLNW9Zc0plWWVBUE84eXc2RXRoamVOKzExUVdSS3Nua216R3R6ck1Md3V3WDlzdVFlNWszY3FScVE4R0JBPT0K",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.1/Vinsly_0.11.1_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.0/"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.1/"
     }
   }
 }
