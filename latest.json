@@ -1,23 +1,23 @@
 {
-  "version": "0.11.4",
-  "notes": "- Add PreCompact/SessionStart matcher support\n- Improve Linux directory scanning\n- Fix SKILL.md case sensitivity",
-  "pub_date": "2025-12-29T22:38:57Z",
+  "version": "0.11.5",
+  "notes": "- Enhanced Hooks editor with 6-step wizard and matcher selection UI\n- Added MultiSelectChips component for tool and notification matchers\n- Improved hooks types with exit code behaviors and stdin field descriptions",
+  "pub_date": "2025-12-31T23:12:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmRRU3haYk01T1lqcHA2MGpyUTlOa1ExS28zckloYmc1OXYyMXJvSjQ5SHpmU3ljcmtiWkZBc1Rqc0sveGdjdlBkNkMwOW83UEJIRmlTb0l3a2NxMFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MDQ3NzczCWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKMkJZUTh1TjFSd2tTSzNDaURWcE9idExRcCtqdVFhTGg4cDB3OUQ5OTUrclMzVFdVR1lYZEd5bUhMQ1gvMFJzTVBrUHJqU0ZtcU1XNWY5dHFjS1pRQkE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.4/Vinsly_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlNUZTB4Uk9jalpjSE90M0lmS2xZaDF6bjlYK0xqS2NaMjhRMnYwMlB0UG9MQy9rcGVXTXRLaXBCV1o0WUpuOE5vbjQ4YUdXcmdBeGd3ZnowWWJqQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyMzUyCWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKd0x5RGRlYmtwRlkvMkQ3bEkzSHpqYThsQzRxOTRHZzBYaENSU3ZtTDRYT1BrVU1vV3NzTnpmMzRSVkdFNDU2RGF5SklsNGVac28wNXY3ZjhJT21YQmc9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlJmM2ZsRDZFWlpsalVNM3FaaDdYdnJuYUsyd1ZFTXBhakU2ZHdkQVhlN3UweXpra3ZZZ1ZubWpoUG9RRGkzVGRzZWZVWXptb1ord2c0eDRld1FzQ3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MDQ3ODQ5CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKNDNaSnAvL1JRMUdjUll6enJpdnlLK0tqVkh0dVFMTitZYnZ5MUtpdzZ3YXdTNGpVelhJOHczNGt2MkZxbllzV0hEMUR4cGw4MThZT1VmSStmSXNMQlE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.4/Vinsly_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmJyZ01jdzlBWUhMaXpaOElwaHMzTlNMWGIvaFJ6YzFoTkF2SmdXSmlqQTNUU2kwbjhTUHVyZ1lRREhUR1pSMjNUVk91N1VCbEdBamZIUG56NEp0ZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyNDc0CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKbks3M2JNRmxKRzUrZko4amlTVzB3U1VUU2JZSFFHQUh4VDllcjBiL0QvSnh4a2NPN1lsU2cxSW1saDl5VHlPTnh4c3hMNll1Nk8vOXhtUmN3b0l2RFE9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmIybTNKNDl1ZmdPYjlheE5iQnZrRWZ5MzhvMGRaSzJSelZleXpIMTJzK1BrU2YwR3pnL3lYYXZCbDMyMDQyb09HL2QxSGhCK3lvWFV5QkFwdU9QZ0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MDQ3ODUyCWZpbGU6Vmluc2x5XzAuMTEuNF94NjQtc2V0dXAuZXhlCkx2TG1KWHh2QWhlVk5ZSzBjZUhXMnBDZklmS3cvbU81Q0YrRnlrZFRsb0hRTTJkMEdpdTVvZjU5aFRVUm92b0JhaWxubkZrNUVNTXhTT3poY0NKK0RnPT0K",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.4/Vinsly_0.11.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlJvai8xNWdscjlYSGJkaEdlcndBRzhsUzlCQU0zaGJYbUpPaWdaZzJWTm9WWUw4M3FkSGJ5cEpsODJONHBuTmZxakEwYlZSaG5vVjBEdXpmU05MS2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyNjAwCWZpbGU6Vmluc2x5XzAuMTEuNV94NjQtc2V0dXAuZXhlCmNnYjkxT1c5cXJwQUxqTlBSdVhRdjdaNUF3bjJWRS9ZMWx2RlkxYlY4L2NhcjlVcFpwanBCelMyeGVDTmYwb0VjR3Y4MEhtYzhOOTFXMEVhcUgxUkRnPT0K",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_0.11.5_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.4/"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/"
     }
   }
 }
