@@ -1,23 +1,23 @@
 {
-  "version": "0.11.5",
-  "notes": "- Enhanced Hooks editor with 6-step wizard and matcher selection UI\n- Added MultiSelectChips component for tool and notification matchers\n- Improved hooks types with exit code behaviors and stdin field descriptions",
-  "pub_date": "2025-12-31T23:12:08Z",
+  "version": "0.12.0",
+  "notes": "- Vinsly officially exits beta",
+  "pub_date": "2026-01-04T14:15:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlNUZTB4Uk9jalpjSE90M0lmS2xZaDF6bjlYK0xqS2NaMjhRMnYwMlB0UG9MQy9rcGVXTXRLaXBCV1o0WUpuOE5vbjQ4YUdXcmdBeGd3ZnowWWJqQVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyMzUyCWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKd0x5RGRlYmtwRlkvMkQ3bEkzSHpqYThsQzRxOTRHZzBYaENSU3ZtTDRYT1BrVU1vV3NzTnpmMzRSVkdFNDU2RGF5SklsNGVac28wNXY3ZjhJT21YQmc9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlp3RncyeUMrTVNic0FnVHJMNngvanhPUXU1dkJldzd6VkxFc0tyMUZpYUxiZnNWbHlBWEwrdHlYeUxuRU1YR3ZJUDNPTDdETFNwUUdQandWdXFuWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTM1ODE1CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKb3RwUnAwZ21NTHdlT21LbFk1cE5KNnZISUx3RzVVNW9uYUdhZGNTRStMajQ4Z3diQmQvc011VVdheWFINW14VlRQWGZiMDlyZkwyRkNmN2xyeDlyQlE9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.0/Vinsly_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmJyZ01jdzlBWUhMaXpaOElwaHMzTlNMWGIvaFJ6YzFoTkF2SmdXSmlqQTNUU2kwbjhTUHVyZ1lRREhUR1pSMjNUVk91N1VCbEdBamZIUG56NEp0ZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyNDc0CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKbks3M2JNRmxKRzUrZko4amlTVzB3U1VUU2JZSFFHQUh4VDllcjBiL0QvSnh4a2NPN1lsU2cxSW1saDl5VHlPTnh4c3hMNll1Nk8vOXhtUmN3b0l2RFE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlQ0Ym5VbVBvclVkeW9RVnR0dDNCdFd0ZVRiS3AraHN1NE80cU5uQUN3LzZ2RjhFNlB3R0VHaFpBUGE0ejJFUzBtSW9vQ212bks1R1d1NGRkZnJNV3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTM2MDg0CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKNXFvc0srbTlJcDNyZU1jQmJJbXhQN0FrTXFZZnloR2NZS1JJSnlwNm5YWmVsUkk5b2RkWWhZc0NJRjdzUytnSlBBQzZuVWFvRmlheVBSNldhNGlURGc9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.0/Vinsly_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlJvai8xNWdscjlYSGJkaEdlcndBRzhsUzlCQU0zaGJYbUpPaWdaZzJWTm9WWUw4M3FkSGJ5cEpsODJONHBuTmZxakEwYlZSaG5vVjBEdXpmU05MS2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MjIyNjAwCWZpbGU6Vmluc2x5XzAuMTEuNV94NjQtc2V0dXAuZXhlCmNnYjkxT1c5cXJwQUxqTlBSdVhRdjdaNUF3bjJWRS9ZMWx2RlkxYlY4L2NhcjlVcFpwanBCelMyeGVDTmYwb0VjR3Y4MEhtYzhOOTFXMEVhcUgxUkRnPT0K",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/Vinsly_0.11.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmNWak5HUks2Z2RBZSswSW5LOFlBTHV5T3N2L0cxVGM3c3Q2cWdmY0hyNUZMV0lsMnJCOStRTmdNZy92TndiR2xTL01qUVEvelFrUjRKOUZjQ25UK3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTM1ODcyCWZpbGU6Vmluc2x5XzAuMTIuMF94NjQtc2V0dXAuZXhlCkIxVFhkeXJNc2NuQjZrMVhRbUNPQkNRSjNvZHg5ckdJa3EyWXI0UStlclozTUdiZ0lybDB4VnQyTk9qZTZuSXFSZE14d29temtEeGsyOFc3a2hzVkJRPT0K",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.0/Vinsly_0.12.0_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.11.5/"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.0/"
     }
   }
 }
