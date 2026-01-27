@@ -1,23 +1,23 @@
 {
-  "version": "0.12.2",
-  "notes": "See GitHub release for details",
-  "pub_date": "2026-01-24T20:59:19Z",
+  "version": "0.12.3",
+  "notes": "- Fix Tauri invoke arg names for Lemon licensing\n- Route Lemon validate/activate/deactivate through Rust backend\n- Prevent grace-period wipe when status is missing",
+  "pub_date": "2026-01-27T15:20:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlp2eXkwWkRpdHo2MnlEbStNR1BpMjRVV25NOCtXTW5FZXNXb0JQOHVmZmJiYzhuRTZIc2dPWXJ3cVpsQ0hNVmZUWUFaVVpIOEl6UVVidWd0aDFIM3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mjg4MTg3CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKamJkdTdGNk4wTWtNdFFSTHNaTCtFYXB4QXE3dW1SQ1RrZHNyWHpzSFdjSXhGWEE1WkV2TVpocDc3L3RkRHJhdjVSMXVpK3pWT2xiZTljeTZ5UkY1Q1E9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.2/Vinsly_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmVUcFVIaEJxK25JZlhGYzU2bFBKOVhTOTdHS28rdWpzNHFhVDVYakpCeG5wUDNUcEJEY2RHbG5IdGhtaC9Qcjg1Uy82NFJDRzEzdnJieUtPMDVjcFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTI3MDIwCWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKTXQ0L21qUVkyQlVRWXRHVFJuOWJNRmwvT0pQZ0FFd2VZSTlPakpLYk1ESEgwVU8zVnJjK3BYL1dmazFyY2oxVllNZXZjb29uaFoyM3N0OWtZSElyQWc9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.3/Vinsly_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlhON1FFNDQvNTlXckFmQkR4QWo3cDRLelltQmJKZXlmT2dINmhlTXdSZlh4dEJrYi9neGlRa3NySWtGb2o2WnR1QzVZNVVJaXdGcnhPaHMvMWFSTXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mjg4MTg5CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKcFdYWEZVeXVtTVE4WUZacElFNXZEZTJrS3ZYUEV2OHdyb3RpL0lsR2EyazFlK2ZlRWZZNWlqVGZ5Yzh4d2M2UmViSzVMS200ZVJVTldGdVIrZ1haQlE9PQo=",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.2/Vinsly_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmJIMEJka3daSSswMlVrRHdwNjhnQ2J4RWIyYzVHaEpuVUM5T1FvNEIwLzVXWno0d0ZDQXEreHRBa3Zhdm16SkV1b2pMWC9yMktoeG5FT1BtRmt1YmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTI2OTg0CWZpbGU6Vmluc2x5LmFwcC50YXIuZ3oKeWc5SGN3TGRhWTRnRkJ3U0Rpby92T2FNUTBYVUZXQmd3MDJPa0dPZDZvVnBSb0dKZE5DY1JSZEg0SnRWNjNaQmtpZjFEYVR0cFYxWGlvSkpjZWh6REE9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.3/Vinsly_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMmIzN2g5aUQ5c2NCbmROVHFmMXRlanZJSWFPMmx3UGdXVGd4MjIxdTNUdEM5alpaL0FMb2JYb0NWeTRMKzczYWRDVWFobVlWMnN0WCtMNW81cGkzdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mjg4Mjg3CWZpbGU6Vmluc2x5XzAuMTIuMl94NjQtc2V0dXAuZXhlCjdQMTROQU1JUkJSbFo4ZUxkUUMvMkttRTZmUnZaQVk0YzFiWlY3M3ZBZ2wwdUhGektreFdRYzVDTzQ5ZkZKUlBjbU9DWlk3NGFybk1TR3dRSFJwYUNnPT0K",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.2/Vinsly_0.12.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMlVMTkpCY0lVTS9xSmI0OCs2cm1HY09QK1JPQVlLQkErQlErSldUZkhxNkd3SzhaTlhGTmhiUjRSMVNrZ3p2N2hBN0tUdFFPQ0p2MVhLYW44OVMxcXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTI3MTQ1CWZpbGU6Vmluc2x5XzAuMTIuM194NjQtc2V0dXAuZXhlCjZjV0dmbGt1WXBybjhETjV5UXVkZnF6YWFlU0dIRGJOdkhIQ281NkpFN05DWURCb1JRK3pRTFQ2c25nSTJxdk9BVDVEZVlDS0tqVHp4QUVoMkJwRkNnPT0K",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.3/Vinsly_0.12.3_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.2/"
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.12.3/"
     }
   }
 }
